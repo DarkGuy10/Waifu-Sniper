@@ -1,7 +1,7 @@
 <h1 align="center">Waifu Sniper</h1>
 <p align="center">A Discord self-bot for sniping mudae waifus/husbandos, written in Python3.</p>
 
-![Waifu with sniper]()
+![Waifu with sniper](https://raw.githubusercontent.com/DarkGuy10/Waifu-Sniper/master/assets/waifu.jpg)
 
 ## Warning!
 Self bots like this break Discord's TOS and hence your account may get **banned**. <br>
